@@ -1,3 +1,3 @@
-1. Download 2 file yolov8_old.pt và yolov8_new.pt ở link 
+1. Download 2 file yolov8_old.pt và yolov8_new.pt ở link https://drive.google.com/drive/folders/1ATUQlp76irJJj0RgJEZzgRcmewFLnw4N?usp=sharing
 2. Copy 2 file này vào thư mục Demo/weight
 3. Chạy chương trình
